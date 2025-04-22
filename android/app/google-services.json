@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "404245872697",
+    "firebase_url": "https://gumc-church-app-default-rtdb.firebaseio.com",
+    "project_id": "gumc-church-app",
+    "storage_bucket": "gumc-church-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404245872697:android:c97f969439aea81b6c0de8",
+        "android_client_info": {
+          "package_name": "com.example.ghanaumc_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBb4SPTQuFcMbD4Dfa4JHXEXwkFrsQMErU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
