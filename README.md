@@ -1,7 +1,9 @@
 📱 GhanaUMC App
 
 A cross-platform mobile app built with Flutter for the Ghana UMC community. This project streamlines church communication, team collaboration, and event management — all in one place.
+
 ✝️ Core Features
+
 🔹 Ministry Teams
 
     Create and join ministry or department teams
