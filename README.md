@@ -1,50 +1,45 @@
-# ghanaumc_app
+📱 GhanaUMC App
 
-A new Flutter project.
+A cross-platform mobile app built with Flutter for the Ghana UMC community. This project streamlines church communication, team collaboration, and event management — all in one place.
+✝️ Core Features
+🔹 Ministry Teams
 
+    Create and join ministry or department teams
 
-Features
-Ministry Teams
+    Manage team members with role-based access (Admin, Member, etc.)
 
-    Create and join ministry teams
+    Real-time team chat and messaging
 
-    Team member management with roles
+    Share files within teams
 
-    Real-time team chat
+    Schedule and track team-specific events
 
-    File sharing within teams
+📆 Events
 
-    Team event scheduling
+    Create and manage church-wide or team-specific events
 
-Events
+    Support for recurring events
 
-    Create and manage church events
+    Calendar view with full event details
 
-    Recurring event support
+    Attendance tracking and reminders
 
-    Calendar view with event details
+    Push notifications for upcoming events
 
-    Event attendance tracking
+💬 Communication
 
-    Push notifications for events
+    Broadcast church-wide announcements
 
-Communication
+    Enable team-specific messaging and file attachments
 
-    Church-wide announcements
+    Real-time notifications to keep members informed
 
-    Team-specific messaging
+🛠️ Admin Portal
 
-    File attachments
+    Secure login for administrators
 
-    Real-time notifications
+    Manage church members and team rosters
 
-Admin Portal
+    Oversee events and track engagement
 
-    Secure admin access
-
-    Member management
-
-    Event oversight
-
-    Analytics dashboard
-
+    View insights with an analytics dashboard
